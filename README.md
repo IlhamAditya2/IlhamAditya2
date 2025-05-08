@@ -30,14 +30,18 @@
 <h2 align="center">hey there 👋</h2>
 
 
-<h3 align="left">🗿 About Me</h3>
 
-<p align="left">
+
+<p align="center">
   I'm Ilham Aditya from Majalengka, West Java 🇮🇩, I am an informatics student, currently halfway through my degree.
 I am expanding my knowledge in both front-end and back-end development. In addition, I have started to explore the field of cybersecurity, with a focus on bug hunting, to better understand how security systems work and how to protect applications from potential vulnerabilities or attacks. I am passionate about learning new techniques, exploring weaknesses, and continuously sharpening my analytical skills in this area. <br><br>
 
 </p>
 
+
+<div align="center">
+
+  
 ##### I Have Learned:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="display:inline-block; margin:3px;" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="display:inline-block; margin:3px;" />   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="display:inline-block; margin:3px;" />   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="display:inline-block; margin:3px;" />   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style="display:inline-block; margin:3px;" />  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="display:inline-block; margin:3px;" />
@@ -47,15 +51,19 @@ I am expanding my knowledge in both front-end and back-end development. In addit
 ##### And Also Familiar With:
 
 <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" style="display:inline-block; margin:3px;" />  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" style="display:inline-block; margin:3px;" />  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" style="display:inline-block; margin:3px;" />
+</div>
+
 
 ___
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">My Stats: </h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IlhamAditya2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IlhamAditya2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" 
+  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlhamAditya2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   
   <img src="https://github-profile-trophy.vercel.app?username=IlhamAditya2&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlhamAditya2&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
