@@ -48,7 +48,7 @@ I am expanding my knowledge in both front-end and back-end development. In addit
 
 <img src="https://img.shields.io/badge/Burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" style="display:inline-block; margin:3px;" />  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" style="display:inline-block; margin:3px;" />  <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" style="display:inline-block; margin:3px;" />
 
-###
+___
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -62,6 +62,8 @@ I am expanding my knowledge in both front-end and back-end development. In addit
 </div>
 
 ###
+
+___
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlhamAditya2/IlhamAditya2/output/pacman-contribution-graph-dark.svg">
