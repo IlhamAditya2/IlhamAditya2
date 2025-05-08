@@ -1,6 +1,7 @@
 ## Welcome to my GitHub profile! 👋
 
-<img src="img/darker_output.gif" alt="Ilham Aditya" style="border-radius: 8px;">
+![Meteor Gif](assets/darker_output.gif)
+
 
 
 ##### I Have Learned:
