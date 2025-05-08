@@ -63,11 +63,13 @@ I am expanding my knowledge in both front-end and back-end development. In addit
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlhamAditya2/IlhamAditya2/output/pacman-contribution-graph-dark.svg">
+<!-- <picture>
+<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlhamAditya2/IlhamAditya2/output/pacman-contribution-graph-dark.svg"> -->
 <!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IlhamAditya2/IlhamAditya2/output/pacman-contribution-graph.svg"> -->
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IlhamAditya2/IlhamAditya2/output/pacman-contribution-graph.svg">
-</picture>
+ <!-- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IlhamAditya2/IlhamAditya2/output/pacman-contribution-graph.svg">
+ 
+<!-- </picture> -->
+<img src="https://raw.githubusercontent.com/IlhamAditya2/IlhamAditya2/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
 
 ###
 
