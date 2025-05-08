@@ -74,10 +74,7 @@ ___
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31btge3o2z4iyflkh5mpl3rqwhr4?si=pZj5vI94RNauLUgzQYQs7w">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31btge3o2z4iyflkh5mpl3rqwhr4?si=pZj5vI94RNauLUgzQYQs7w&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="assets/darker_output.gif" alt="Ilham" style="width: 100%; align:center; height: auto;" />
+
 
 ###
