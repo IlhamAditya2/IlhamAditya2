@@ -74,7 +74,9 @@ ___
 
 ###
 
-<img src="assets/darker_output.gif" alt="Ilham" style="width: 100%; align:center; height: auto;" />
+<div align="center">
+  <img height="auto" width="100%" src="assets/darker_output.gif"  />
+</div>
 
 
 ###
